@@ -1,14 +1,20 @@
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://jmersh.github.io/feed.xml, https://jmersh.github.io/"
+on:
+  push:
+  schedule:
+    - cron: "0 */6 * * *"
+jobs:
+  blog:
+    runs-on: ubuntu-latest
+    name: Fetch and Generate Blog Posts
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Generate
+        uses: ErrorGamer2000/github-readme-blog-post-action@v1
+        with:
+          feed_urls: https://jmersh.github.io/feed.xml
+      - name: Commit changed files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Save Generated Blog Posts
+          skip_checkout: true
