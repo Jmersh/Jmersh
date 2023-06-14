@@ -15,6 +15,19 @@
 
 ### Blog posts
 <!-- blog-post-list:start -->
+## J Mersh’s Blog
+
+
+
+[Read more](https://jmersh.github.io//)
+> Last updated: Wednesday, June 14, 2023 at 9:22:25 PM
+
+> Showing 2 of 2 posts.
+
+[![Harvesting Hydrogen: Unveiling Catalysts with the Power of AI](https://raw.githubusercontent.com/Jmersh/Jmersh/main/blog-post-list-output/J_Mersh’s_Blog/Harvesting_Hydrogen__Unveiling_Catalysts_with_the_Power_of_AI.svg)](https://jmersh.github.io//Harvesting-Hydrogen/)
+[![A Whole New Beginning](https://raw.githubusercontent.com/Jmersh/Jmersh/main/blog-post-list-output/J_Mersh’s_Blog/A_Whole_New_Beginning.svg)](https://jmersh.github.io//A-New-Beginning/)
+
+
 <!-- blog-post-list:end -->
 
 <h3 align="left">Connect with me:</h3>
