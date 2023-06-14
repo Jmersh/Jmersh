@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Catalyst Design :)**
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Blog posts
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
