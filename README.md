@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust and Nim.**
 
-- 👯 I’m looking to collaborate on **GPT Finetuning.**
+- 👯 I’m looking to collaborate on **LLM Finetuning.**
 
 - 🤝 I’m looking for help with **VASP Calculations.**
 
