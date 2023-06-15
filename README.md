@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm J Mersh</h1>
+<h1 align="center">Hi 👋, I'm Jordan Mershimer</h1>
 <h3 align="center">A passionate Chemist, Biochemist with a minor in Physics.</h3>
 
 - 🔭 I’m currently working on [NSURS-HER-ML.](https://github.com/Jmersh/NSURS-HER-ML)
