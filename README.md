@@ -15,6 +15,9 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ai Innovation Orca And Progressive learning](http://jmersh.github.io/AI-Innovation-Orca-and-Progressive-Learning/)
+- [Harvesting Hydrogen: Unveiling Catalysts with the Power of AI](http://jmersh.github.io/Harvesting-Hydrogen/)
+- [A Whole New Beginning](http://jmersh.github.io/A-New-Beginning/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
