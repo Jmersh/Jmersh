@@ -12,7 +12,7 @@ jobs:
       - name: Generate
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
-          feed_urls: https://jmersh.github.io/feed
+          feed_urls: jmersh.github.io/feed
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
