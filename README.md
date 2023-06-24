@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NSURS-HER-ML.](https://github.com/Jmersh/NSURS-HER-ML)
 
-- 🌱 I’m currently learning **Rust and Nim.**
+- 🌱 I’m currently learning **Rust and Julia.**
 
 - 👯 I’m looking to collaborate on **LLM Finetuning.**
 
