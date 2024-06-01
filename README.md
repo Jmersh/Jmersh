@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jordan Mershimer</h1>
-<h3 align="center">A passionate Chemist, Biochemist with a minor in Physics.</h3>
+<h3 align="center">A passionate multi-role engineer, chemist, biochemist with a minor in physics.</h3>
 
 - 🔭 I’m currently working on [NSURS-HER-ML.](https://github.com/Jmersh/NSURS-HER-ML)
 
 - 🌱 I’m currently learning **Rust and Julia.**
 
-- 👯 I’m looking to collaborate on **LLM Finetuning.**
+- 👯 I’m looking to collaborate on **PLC Automation.**
 
-- 🤝 I’m looking for help with **VASP Calculations.**
+- 🤝 I’m looking for help with **Interesting challenges.**
 
 - 📝 I regularly write articles on [https://jmersh.github.io/](https://jmersh.github.io/)
 
-- 💬 Ask me about **Catalyst Design :)**
+- 💬 Ask me about **LDL vs STL :D**
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
