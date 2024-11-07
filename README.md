@@ -15,7 +15,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Checklist Manifesto](https://jmersh.github.io/posts/checklist-manifesto/)
+- [Lessons Learned: A Checklist Manifesto](https://jmersh.github.io/posts/Lessons-Learned-A-Checklist-Manifesto/)
 - [Ai Innovation Orca And Progressive learning](https://jmersh.github.io/posts/AI-Innovation-Orca-and-Progressive-Learning/)
 - [A Whole New Beginning](https://jmersh.github.io/posts/A-New-Beginning/)
 - [Harvesting Hydrogen: Unveiling Catalysts with the Power of AI](https://jmersh.github.io/posts/Harvesting-Hydrogen/)
