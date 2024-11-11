@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [NSURS-HER-ML.](https://github.com/Jmersh/NSURS-HER-ML)
 
-- 🌱 I’m currently learning **Rust and Julia.**
+- 🌱 I’m currently learning **Project Management**
 
-- 👯 I’m looking to collaborate on **PLC Automation.**
+- 👯 I’m looking to collaborate on **Reading Circles.**
 
 - 🤝 I’m looking for help with **Interesting challenges.**
 
 - 📝 I regularly write articles on [https://jmersh.github.io/](https://jmersh.github.io/)
 
-- 💬 Ask me about **LDL vs STL :D**
+- 💬 Ask me about **my latest read!**
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
