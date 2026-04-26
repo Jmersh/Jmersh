@@ -64,10 +64,11 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Lessons Learned: A Checklist Manifesto](https://jmersh.github.io/posts/Lessons-Learned-A-Checklist-Manifesto/)
+- [When Coding Benchmarks Stop Measuring Progress](https://jmersh.github.io/posts/when-coding-benchmarks-stop-measuring-progress/)
+- [GnuPG Brings Post-Quantum Crypto Closer to Everyday Use](https://jmersh.github.io/posts/gnupg-post-quantum-crypto-mainline/)
+- [Finding Excellence in Simplicity: Lessons from The Checklist Manifesto](https://jmersh.github.io/posts/Lessons-Learned-A-Checklist-Manifesto/)
 - [AI Innovation: Orca and Progressive Learning](https://jmersh.github.io/posts/AI-Innovation-Orca-and-Progressive-Learning/)
-- [A Whole New Beginning](https://jmersh.github.io/posts/A-New-Beginning/)
-- [Harvesting Hydrogen: Unveiling Catalysts with AI](https://jmersh.github.io/posts/Harvesting-Hydrogen/)
+- [Harvesting Hydrogen: Unveiling Catalysts with the Power of AI](https://jmersh.github.io/posts/Harvesting-Hydrogen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
